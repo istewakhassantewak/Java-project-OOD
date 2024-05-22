@@ -9,7 +9,7 @@ public class UserManager {
 
     public boolean registerUser(String username, String password, String email) {
         if (users.containsKey(username)) {
-            return false; // Username already exists
+            return false; 
         }
         users.put(username, new Student(username, password, email));
         return true;
@@ -17,7 +17,7 @@ public class UserManager {
 
     public boolean registerAdmin(String username, String password, String email) {
         if (admins.containsKey(username)) {
-            return false; // Username already exists
+            return false; 
         }
         admins.put(username, new User(username, password, email));
         return true;
