@@ -10,7 +10,7 @@ public class Student extends User {
         super(username, password, email);
     }
 
-    // Getters and setters for additional fields
+  
     public String getId() {
         return id;
     }
