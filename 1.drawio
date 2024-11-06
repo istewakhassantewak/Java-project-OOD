@@ -12,13 +12,13 @@
             <mxPoint x="125" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-3" value="display profle info form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-3" value="display list of companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-5" target="BoYmpK9ckrPkbvIWxogE-16">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-5" target="BoYmpK9ckrPkbvIWxogE-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-5" value="edit profile info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-5" value="&lt;span class=&quot;hljs-string&quot;&gt;User&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Selects&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Company&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BoYmpK9ckrPkbvIWxogE-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="BoYmpK9ckrPkbvIWxogE-5">
@@ -42,31 +42,64 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-16" value="validate update info" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-16" value="&lt;span class=&quot;hljs-string&quot;&gt;User&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Chooses&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Job&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-17" target="BoYmpK9ckrPkbvIWxogE-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="525" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-17" value="save update info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-21" target="BoYmpK9ckrPkbvIWxogE-13">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-17" target="BoYmpK9ckrPkbvIWxogE-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-21" value="notify user of succesfull update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-17" value="&lt;span class=&quot;hljs-string&quot;&gt;View&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Job&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;&amp;nbsp;Details&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-39" target="BoYmpK9ckrPkbvIWxogE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-21" target="BoYmpK9ckrPkbvIWxogE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-21" value="&lt;span class=&quot;hljs-string&quot;&gt;Submit&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Application&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BoYmpK9ckrPkbvIWxogE-26" value="error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-32" value="valid info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="460" width="70" height="30" as="geometry" />
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-32" value="Select job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-34" value="invalid info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="400" width="80" height="30" as="geometry" />
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-34" value="doesn&#39;t select job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-35" target="BoYmpK9ckrPkbvIWxogE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-35" value="&lt;span class=&quot;hljs-string&quot;&gt;Display&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Job&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Listings&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;by&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Selected&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Company&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-38" target="BoYmpK9ckrPkbvIWxogE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-38" target="BoYmpK9ckrPkbvIWxogE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="670" />
+              <mxPoint x="20" y="670" />
+              <mxPoint x="20" y="390" />
+              <mxPoint x="50" y="390" />
+              <mxPoint x="50" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-38" value="&lt;span class=&quot;hljs-string&quot;&gt;Apply&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Job?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-39" value="&lt;span class=&quot;hljs-string&quot;&gt;Notify&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;User&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Application&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;Success&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-44" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="678" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-45" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
