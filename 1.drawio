@@ -12,20 +12,14 @@
             <mxPoint x="125" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-3" value="Forget password request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-3" value="display profle info form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BoYmpK9ckrPkbvIWxogE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-5" target="BoYmpK9ckrPkbvIWxogE-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-5" value="Enter email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-5" value="edit profile info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-7" target="BoYmpK9ckrPkbvIWxogE-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-7" value="reset password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BoYmpK9ckrPkbvIWxogE-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="BoYmpK9ckrPkbvIWxogE-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -39,52 +33,40 @@
         <mxCell id="BoYmpK9ckrPkbvIWxogE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-16" target="BoYmpK9ckrPkbvIWxogE-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-16" target="BoYmpK9ckrPkbvIWxogE-26">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-16" target="BoYmpK9ckrPkbvIWxogE-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="390" />
-              <mxPoint x="200" y="620" />
+              <mxPoint x="200" y="440" />
+              <mxPoint x="220" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-16" value="Validate Email" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-16" value="validate update info" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-17" target="BoYmpK9ckrPkbvIWxogE-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-17" target="BoYmpK9ckrPkbvIWxogE-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="525" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-17" value="Send password reset link" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-17" value="save update info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-18" target="BoYmpK9ckrPkbvIWxogE-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-18" target="BoYmpK9ckrPkbvIWxogE-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-18" value="User click on reset password" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="470" width="95" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BoYmpK9ckrPkbvIWxogE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BoYmpK9ckrPkbvIWxogE-21" target="BoYmpK9ckrPkbvIWxogE-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-21" value="Notify user password is reset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-25" value="clicked" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="478" width="60" height="30" as="geometry" />
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-21" value="notify user of succesfull update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BoYmpK9ckrPkbvIWxogE-26" value="error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-28" value="not clicked" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="578" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-32" value="matched" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-32" value="valid info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BoYmpK9ckrPkbvIWxogE-34" value="no match" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="70" height="30" as="geometry" />
+        <mxCell id="BoYmpK9ckrPkbvIWxogE-34" value="invalid info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="400" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
